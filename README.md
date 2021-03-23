@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sergey Utkin
+- 👀 I’m interested in python and linux
+- 🌱 I’m currently learning devops tools :)
+- 📫 How to reach me [@dernitro](https://t.me/dernitro) or utkins01@gmail.com
